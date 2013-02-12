@@ -1,4 +1,4 @@
-<html><body><pre>
+<pre>
 Company: Cloudways Ltd. www.cloudways.com
 
 Developed on:
@@ -9,11 +9,11 @@ PHP Version :
 MySQL Version :
     5.5.16	
 
-Please update vars.php file first resides under system/include directory and set variable according to your environment.
-
 This panel is created to automate the process of creating/managing servers and several other tasks on ElasticStack based Clouds.  
 It automates some frequent tasks ( like uploading custom images ) which otherwise take more time if done via "command line" tool, 
 managing pre-defined parameters to avoid human-errors, Drive, VLANS and other resources management etc
+	
+Please update vars.php file first resides under system/include directory and set variable according to your environment.
 
 Directory Structure
 
@@ -34,7 +34,6 @@ Directory Structure
 |-- template
 		|-- default_1 (template css files and images)
 
-
 modules directory:
 modules directory contains file which holds all UI of the project. All CMS related pages are prt of 'cms' directory while EH operations are in 'setup' directory.
 Pages are based on ajax so both cms and setup directory further holds 'ajax_content' directories. 
@@ -46,4 +45,4 @@ include directory:
 
 credits:
 https://phpseclib.com/
-</pre></body></html>
+</pre>
