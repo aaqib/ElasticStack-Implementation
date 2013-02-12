@@ -1,11 +1,4 @@
 <?php
-/**
- * Copyright 2013 Cloudways Ltd.
- * Author Sarfraz Qasim
- * Contributor Aaqib Gadit
- * http://www.cloudways.com
- */
- 
 //including required files
 $main_page='yes'; require_once("system/include/config.php"); require_once(INC."form_valid.php"); require_once(INC."mail.php");
 

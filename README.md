@@ -1,5 +1,3 @@
-Author: Sarfraz Qasim
-Contributor: Aaqib Gadit
 Company: Cloudways Ltd. www.cloudways.com
 
 Developed on:
