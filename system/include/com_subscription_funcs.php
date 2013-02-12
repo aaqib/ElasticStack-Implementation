@@ -1,12 +1,4 @@
 <?php 
-/************************************************************************************************************************
- Author: Muhammad Akram
- Designation: Software Engineer
- Company: Gaditek Solutions
- Date Creation: 15 April 2010 
- Last Updated : 15 April 2010
- 
-*************************************************************************************************************************/
 function getFields($list){
 	$subscription = array("ID"=>"manage_cloud_id", "Admin Freindly Name"=>"admin_friendly_name", "Created on"=>"creation_date", "Last Update"=>"last_modified", "Status"=>"status", "Action"=>"");
 	$manage_cloud_trans = array("ID"=>"id", "Title"=>"title", "Language"=>"language", "Details"=>"");

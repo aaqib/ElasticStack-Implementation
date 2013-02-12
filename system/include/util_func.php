@@ -1,12 +1,4 @@
 <?php 
-/************************************************************************************************************************
- Author: Muhammad Akram (akram_kamboh@hotmail.com)
- Designation: Software Engineer
- Company: Gaditek Solutions
- Date Creation: 15 April 2010 
- Last Updated : 07 July 2010
- 
-*************************************************************************************************************************/
 function getTitle($page)
 {
 	$arr = array('0'=>"All", '1'=>"Open", '2'=>"Answered", '3'=>"Customer Replied", '4'=>"On-Hold", '5'=>"In-Progress", '6'=>"Closed",

@@ -1,3 +1,4 @@
+<html><body><pre>
 Company: Cloudways Ltd. www.cloudways.com
 
 Developed on:
@@ -45,4 +46,4 @@ include directory:
 
 credits:
 https://phpseclib.com/
-
+</pre></body></html>
