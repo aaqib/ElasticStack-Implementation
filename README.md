@@ -9,7 +9,7 @@ PHP Version :
 MySQL Version :
     5.5.16	
 
-This panel is created to automate the process of creating/managing servers and several other tasks on ElasticStack based Clouds.  
+This OpenSource Tool is created to automate the process of creating/managing servers and several other tasks on ElasticStack based Clouds.  
 It automates some frequent tasks ( like uploading custom images ) which otherwise take more time if done via "command line" tool, 
 managing pre-defined parameters to avoid human-errors, Drive, VLANS and other resources management etc
 	
