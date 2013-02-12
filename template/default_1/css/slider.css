@@ -1,0 +1,94 @@
+/* Jquery User Interface Library Classes ----------------------------------------------------------------------*/
+.ui-widget-content { border: 1px solid #BFC6CA; background:#FCFDFD; float:none;}
+
+/* Slider */
+.ui-slider{
+	position: relative; text-align: left;}
+
+.ui-slider .ui-slider-handle{
+	position: absolute; z-index: 2; width: 1em; height: 1em; cursor: default;}
+
+.ui-slider .ui-slider-range{
+	position: absolute; z-index: 1; display: block; border: 0;}
+
+.ui-slider-horizontal{
+	height: 10px;}
+
+.ui-slider-horizontal .ui-slider-handle{
+	top: -.5em; margin-left: -.6em;}
+	
+.ui-slider-horizontal .ui-slider-range{
+	top: 0; height: 100%;}
+
+.ui-slider-horizontal .ui-slider-range-min{
+	left: 0;}
+
+.ui-slider-horizontal .ui-slider-range-max{
+	right: 0;}
+
+/* Corner radius */
+.ui-corner-top {
+	-moz-border-radius-topleft: 4px; -webkit-border-top-left-radius: 4px; -moz-border-radius-topright: 4px; 
+	-webkit-border-top-right-radius: 4px;}
+
+.ui-corner-bottom { 
+	-moz-border-radius-bottomleft: 4px; -webkit-border-bottom-left-radius: 4px; -moz-border-radius-bottomright: 4px; 
+	-webkit-border-bottom-right-radius: 4px;}
+
+.ui-corner-right {
+	-moz-border-radius-topright: 4px; -webkit-border-top-right-radius: 4px; -moz-border-radius-bottomright: 4px; 
+	-webkit-border-bottom-right-radius: 4px;}
+
+.ui-corner-left {
+	-moz-border-radius-topleft: 4px; -webkit-border-top-left-radius: 4px; -moz-border-radius-bottomleft: 4px; 
+	-webkit-border-bottom-left-radius: 4px;}
+
+.ui-corner-all {
+	-moz-border-radius: 4px; -webkit-border-radius: 4px;}
+
+.ui-state-default{ 
+	outline: none;}
+/* ------------------------------------------------------------------------------------------ */
+
+
+div#sizes{
+	padding-top: 12px; height: 25px; font-family: 'helvetica neue',arial,sans-serif; color: #222; padding-left:6px;}
+
+div#sizes #size-slider1{
+	float: left; margin-right: 22px; padding-top: 3px;}
+				
+/*#max-disp{
+	float: right; display: none;}
+*/
+#max-disp{
+	float: right; display: none;}
+
+#min-disp{
+	text-align: right; float: left; display: none;}
+				
+div#sizes input{
+	border: none; background-color: transparent; width: 40px; overflow: hidden;}
+
+div#sizes select, .ui-slider-tic{
+	display: none;}
+				
+.ui-slider .ui-slider-range{
+	background:#F2F5F7;}
+
+.ui-widget-content .ui-state-default{
+	 background: url(../img/sld-knob_bg.jpg) repeat-x; border: 1px solid #95A0A6; width:8px; height:18px;}
+
+.ui-slider .ui-slider-range, .ui-widget-content{
+	font-size: 12px; font-family:Arial; color:#60676D; line-height:23px;}
+
+div#sizes .label{
+	width: 160px; text-decoration: none !important;}
+
+.ui-slider ol, .ui-slider li, .ui-slider dl, .ui-slider dd, .ui-slider dt {
+	list-style: none; margin: 0; padding: 0;}
+
+.ui-slider ol, .ui-slider dl {
+	position: relative; top: 1.3em; width: 100%;}
+
+.ui-slider li, .ui-slider dd {
+	position: absolute;}

@@ -1,0 +1,27 @@
+/* Header Styles */
+* html .statlnkbox{
+	background:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='template/default_1/img/statbox_bg.png');}
+
+/* Navigation Box Styles */
+* html .navleft ul li ul li a.navdrpbtm1{
+	background:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='template/default_1/img/nav_btm1_1.png');}
+
+* html .navleft ul li ul li a.navdrpbtm1:hover{
+	background:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='template/default_1/img/nav_btm1_2.png');}
+
+* html .navleft ul li ul li a.navdrpbtm2{
+	background:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='template/default_1/img/nav_btm2_1.png');}
+
+* html .navleft ul li ul li a.navdrpbtm2:hover{
+	background:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='template/default_1/img/nav_btm2_2.png');}
+
+/* Login Page Styles */	
+* html .lgn-titbox{
+	background:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='template/default_1/img/lgn-box_top.png');}
+
+* html .lgn-btmbox{
+	background:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='template/default_1/img/lgn-box_btm.png');}
+
+/* Preloader Styles */
+* html #loading{
+	background:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='template/default_1/img/loader-bg.png',sizingMethod='scale');}

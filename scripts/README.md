@@ -1,0 +1,1 @@
+Store .ssh files in this directory
