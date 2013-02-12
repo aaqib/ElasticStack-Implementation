@@ -12,9 +12,9 @@ MySQL Version :
 
 Please update vars.php file first resides under system/include directory and set variable according to your environment.
 
-This panel is created to automate the process to create/manage servers and several other tasks on Elastic Hosts. 
-It will not only save time to manage servers but also give the power to users to manage their servers with minimal technical knowledge. 
-And everything remains transparent to them.
+This panel is created to automate the process of creating/managing servers and several other tasks on ElasticStack based Clouds.  
+It automates some frequent tasks ( like uploading custom images ) which otherwise take more time if done via "command line" tool, 
+managing pre-defined parameters to avoid human-errors, Drive, VLANS and other resources management etc
 
 Directory Structure
 
